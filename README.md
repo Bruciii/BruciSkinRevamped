@@ -7,7 +7,7 @@ This is the repository for my Osu! skin.
 
 You can find the latest version availible for download [HERE](https://drive.google.com/open?id=1hV-MrX7TlqVuYJk2MVbWFuiiQAFDMMUj)
 
-You can also find the changelog here.
+You can also find the changelog [here](https://github.com/Bruciii/BruciSkinRevamped/blob/master/CHANGELOG.md)
 
 
 
